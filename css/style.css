@@ -2,6 +2,14 @@ body {
 	background-color: blue;
 }
 
-h1,p {
+p {
 	color: white;
+}
+
+h1{
+	font-family: Trattatello;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#84fab0, #8fd3f4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
