@@ -1,5 +1,5 @@
 body {
-	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+	background-color: black;
 }
 
 p {
@@ -7,6 +7,7 @@ p {
 }
 
 h1{
+	color:linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 	font-family: Trattatello;
   	border-bottom: 5px solid #84fab0;
 }
