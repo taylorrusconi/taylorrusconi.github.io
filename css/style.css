@@ -1,5 +1,5 @@
 body {
-	background-color: blue;
+	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
 
 p {
@@ -11,6 +11,4 @@ h1{
   	border-bottom: 5px solid #84fab0;
 }
 
-*{
-	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
-}
+
