@@ -1,15 +1,8 @@
+
 body {
-	background-color: black;
+	background-color: blue;
 }
 
-p {
-	color: #8fd3f4;
+h1,p {
+	color: white;
 }
-
-h1{
-	color:;
-	font-family: impact;
-  	border-bottom: 5px solid #84fab0;
-}
-
-
