@@ -8,8 +8,9 @@ p {
 
 h1{
 	font-family: Trattatello;
-  font-size: 72px;
-  background: -webkit-linear-gradient(#84fab0, #8fd3f4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  	border-bottom: 5px solid #84fab0;
+}
+
+*{
+	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
