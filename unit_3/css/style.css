@@ -36,3 +36,7 @@ a:hover {
 a{
 	color: hotpink;
 }
+
+#bullet{
+	text-align: left;
+}
