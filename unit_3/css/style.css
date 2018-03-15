@@ -1,10 +1,14 @@
 body{
 	background-color: #330867;
 	color: #37ecba;
+	text-align: center;
 
 }
 
 h1{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 25px;
+
 
 }
 
@@ -25,5 +29,9 @@ img{
 }
 
 #slogan{
+
+}
+
+a{
 
 }
