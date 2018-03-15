@@ -11,8 +11,10 @@ h1{
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 25px;
 	text-align: center;
+}
 
-
+ul{
+	text-align: center;
 }
 
 p{
@@ -26,6 +28,7 @@ img{
 
 #slogan{
 	text-align: center;
+	font-style: italic;
 
 }
 
