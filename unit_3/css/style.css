@@ -34,6 +34,10 @@ img{
 
 }
 
+#underpic{
+	text-align: center;
+}
+
 a:hover {
     color: #ffafbd;
 }
@@ -43,9 +47,6 @@ a{
 }
 
 #bullet{
-	text-align: center;
+	text-align: left;
 }
 
-li{
-	text-align: center;
-}
