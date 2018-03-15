@@ -35,7 +35,7 @@ img{
 }
 
 a:hover {
-    color: ;
+    color: #ffafbd;
 }
 
 a{
@@ -43,5 +43,5 @@ a{
 }
 
 #bullet{
-	text-align: left;
+	text-align: center;
 }
