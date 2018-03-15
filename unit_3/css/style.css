@@ -6,17 +6,18 @@ body{
 }
 
 hr{
-	widows: 800px;
+	width: 800px;
 }
 
 h1{
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 40px;
 	text-align: center;
+	padding: 0;
 }
 
 ul{
-	text-align: center;
+	text-align: left;
 }
 
 
