@@ -1,4 +1,6 @@
 
+
+
 body{
 	background-color: #09203f;
 	color: #ffafbd;
@@ -6,7 +8,8 @@ body{
 }
 
 hr{
-	width: 800px;
+	width: 575px;
+	margin-bottom: 20px;
 }
 
 h1{
@@ -14,27 +17,30 @@ h1{
 	font-size: 40px;
 	text-align: center;
 	padding: 0;
+	margin: 3px;
 }
-
-ul{
-	text-align: left;
-}
-
 
 
 img{
-	width: 60%;
+	width: 50%;
 	height: auto;
+	margin: 0;
+	text-align: center;
+	box-sizing: 650px 550px;
+}
+
+li{
+	text-align: left;
+}
+
+p{
+	text-align: center;
 }
 
 #slogan{
 	text-align: center;
 	font-style: italic;
-
-}
-
-#underpic{
-	text-align: center;
+	margin: 3px;
 }
 
 a:hover {
@@ -44,8 +50,3 @@ a:hover {
 a{
 	color: hotpink;
 }
-
-#bullet{
-	text-align: left;
-}
-
