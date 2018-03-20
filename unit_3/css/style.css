@@ -1,10 +1,14 @@
 
 
+@import url('https://fonts.googleapis.com/css?family=Forum|Fredericka+the+Great');
+
 
 body{
 	background-color: #09203f;
 	color: #ffafbd;
 	text-align: center;
+	line-height: 1.5em;
+
 }
 
 hr{
@@ -13,11 +17,12 @@ hr{
 }
 
 h1{
-	font-family: Impact, Charcoal, sans-serif;
-	font-size: 40px;
+	font-family: 'Fredericka the Great', sans-serif;
+	font-size: 90px;
 	text-align: center;
 	padding: 0;
-	margin: 3px;
+	margin: 30px;
+	font-weight: 1;
 }
 
 
@@ -26,21 +31,29 @@ img{
 	height: auto;
 	margin: 0;
 	text-align: center;
-	box-sizing: 650px 550px;
+	box-sizing: 650px;
 }
 
 li{
 	text-align: left;
+	font-family: 'forum', serif;
+	font-size: 18px;
+	line-height: 1.5em;
 }
 
 p{
+	font-family: 'forum', serif;
 	text-align: center;
+	font-weight: 1;
+	font-size: 18px;
 }
 
 #slogan{
 	text-align: center;
 	font-style: italic;
 	margin: 3px;
+	font-family: 'forum', serif;
+	font-size:20px;
 }
 
 a:hover {
@@ -49,4 +62,10 @@ a:hover {
 
 a{
 	color: hotpink;
+	font-family: 'forum', serif;
+}
+
+strong{
+	text-decoration: underline;
+	font-size: 22px;
 }
