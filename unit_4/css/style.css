@@ -1,5 +1,4 @@
 body{
-	color: ;
 	line-height: 1.5em;
 	font-size: 18px;
 	display: inline-block;
@@ -28,7 +27,6 @@ h1{
 	position: relative;
 	top: -2em;
 	left: 4em;
-	color: ;
 	color: #01A388;
 	font-family: passion-one;
 	font-weight: 700;
@@ -44,6 +42,10 @@ img{
 	border-radius: 12em;
 	display: block;
 	position: relative;
+	max-width: 600px;
+	min-height: 300px;
+	min-width: 300px;
+	max-height: 300px;
 }
 
 li{
@@ -53,20 +55,15 @@ li{
 
 p{
 	font-family: 'forum', serif;
-	text-align: left;
-	font-weight: 1;
 	display: block;
-	margin-left: 20em;
-	margin-top: -4em;
-	width: 54em;
-	height: 1em;
-	max-width: 54em;
-	max-height: 1em;
-	padding-top: 0em;
+	margin-left: 19em;
+	margin-top: -15em;
+	max-width: 15em;
 	position: relative;
-	left: -18em;
-	top: 18em;
-	color: red;
+	left: -15em;
+	top: 15em;
+	color: grey;
+	text-align: center;
 }
 
 #slogan{
@@ -112,9 +109,9 @@ strong{
 	font-size: 22px;
 }
 .navbar {
-	position: relative;
+	position: fixed;
 	font-size: 1em;
-	top: -17em;
-	left: 54.5em;
-	word-spacing: .9em
+	word-spacing: .9em;
+	top: 16px;
+	right: 2em;
 }
