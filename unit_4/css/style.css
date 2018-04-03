@@ -1,71 +1,120 @@
-
-
-@import url('https://fonts.googleapis.com/css?family=Forum|Fredericka+the+Great');
-
-
 body{
-	background-color: #09203f;
-	color: #ffafbd;
-	text-align: center;
+	color: ;
 	line-height: 1.5em;
-
+	font-size: 18px;
+	display: inline-block;
+	position: absolute;
+	background-color: black;
 }
 
+
+
+/*
 hr{
-	width: 575px;
-	margin-bottom: 20px;
+	margin-top: auto;
+	min-width: 21em;
+	width: 0px;
+	display: block;
+	position: relative;
+	top: -110px;
+	right: -25em;
 }
+*/
 
 h1{
-	font-family: 'Fredericka the Great', sans-serif;
-	font-size: 90px;
-	text-align: center;
-	padding: 0;
-	margin: 30px;
-	font-weight: 1;
+	font-size: 5em;
+	margin-right: auto;
+	display: inline;
+	position: relative;
+	top: -2em;
+	left: 4em;
+	color: ;
+	color: #01A388;
+	font-family: passion-one;
+	font-weight: 700;
 }
-
+	
 
 img{
-	width: 50%;
-	height: auto;
-	margin: 0;
-	text-align: center;
-	box-sizing: 650px;
+	width: 20%;
+	margin-top: 3em;
+	margin-right: 30px;
+	margin-left: 3em;
+	margin-bottom: 0em;
+	border-radius: 12em;
+	display: block;
+	position: relative;
 }
 
 li{
 	text-align: left;
 	font-family: 'forum', serif;
-	font-size: 18px;
-	line-height: 1.5em;
 }
 
 p{
 	font-family: 'forum', serif;
-	text-align: center;
+	text-align: left;
 	font-weight: 1;
-	font-size: 18px;
+	display: block;
+	margin-left: 20em;
+	margin-top: -4em;
+	width: 54em;
+	height: 1em;
+	max-width: 54em;
+	max-height: 1em;
+	padding-top: 0em;
+	position: relative;
+	left: -18em;
+	top: 18em;
+	color: red;
 }
 
 #slogan{
-	text-align: center;
-	font-style: italic;
-	margin: 3px;
-	font-family: 'forum', serif;
-	font-size:20px;
+	font-style: normal;
+	margin-top: -9em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	padding-right: 3px;
+	padding-left: 3px;
+	font-family: alex-brush;
+	font-size: 29px;
+	color:  #BEEB9F;
+	display: block;
+	text-align: left;
+	left: -2.5em;
+	margin-left: 26em;
+	top: 2.65em;
+	width: 326px;
+	position: relative;
+	font-weight: 400;
 }
 
 a:hover {
-    color: #ffafbd;
+	color: #01A388;
 }
 
 a{
-	color: hotpink;
-	font-family: 'forum', serif;
+	color: #5A5C72; 
+	font-family: didact-gothic;
+	font-style: normal;
+	font-weight: 400;
+	text-decoration: none;
+	/*	display: block;*/
+	width: 100px;	
+	
+}
+span#aboutme {
+		word-spacing: 0em;
 }
 
 strong{
 	text-decoration: underline;
 	font-size: 22px;
+}
+.navbar {
+	position: relative;
+	font-size: 1em;
+	top: -17em;
+	left: 54.5em;
+	word-spacing: .9em
 }
